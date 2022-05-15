@@ -1,0 +1,17 @@
+* {
+    font-family: 'Verdana', sans-serif
+}
+
+h1 {
+    font-size: 32px;
+    background: #00CED1;
+}
+
+p {
+    color: #2F4F4F; 
+}
+
+.intro-para {
+    font-size: 16px;
+    font-weight: bold;
+}
